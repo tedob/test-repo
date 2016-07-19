@@ -10,6 +10,7 @@ namespace Console_Project
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ala bala");
         }
     }
 }
